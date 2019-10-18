@@ -15,7 +15,7 @@ Enter backend directory and run "npm install" to download all the backend depenc
 
 Run "ng serve" in the frontend directory to start the frontend application
 
-Run "nodemon serve" to start the backend application
+Run "nodemon serve" in the backend directory to start the backend application
 
 Access the page via http://localhost:4200/ 
 
